@@ -215,6 +215,7 @@ th{
 
 .list-group-item{
     border: none;
+    margin-left: 120px;
 }
 
 .checked {
